@@ -17,7 +17,7 @@ Dept_Manager
 dept_no varchar pk fk - Departments.dept_no
 emp_no int fk - Employees.emp_no
 from_date date
-end_date date
+to_date date
 
 Salaries
 -
@@ -31,7 +31,7 @@ Dept_employees
 dept_no varchar pk fk >- Departments.dept_no
 emp_no int pk fk - Employees.emp_no
 from_date date
-end_date date
+to_date date
 
 Titles
 -
