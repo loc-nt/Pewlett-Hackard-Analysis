@@ -124,3 +124,4 @@ ORDER BY e.emp_no;
 	SELECT * FROM count_emp_by_titles;
 	-- Analysis 2:
 	SELECT * FROM mentor_eligibility;
+
